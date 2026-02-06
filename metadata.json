@@ -1,0 +1,5 @@
+{
+  "name": "WhatsChat AI",
+  "description": "Une application de messagerie instantanée minimaliste simulant une expérience WhatsApp avec des contacts IA, capable de traiter du texte et des fichiers.",
+  "requestFramePermissions": []
+}
